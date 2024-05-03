@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sugi004
+- 👋 Hi, I’m @Sugishivam
 - 👀 I’m interested in Web Development/ DevOps Engineering
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects
