@@ -1,29 +1,29 @@
-👋 Hi, I'm Sugishivam Murugesan — a recent Master’s graduate in Computer Science from Rivier University, with a passion for building real-world, scalable web applications.
+👋 Hi, I'm Sugishivam Murugesan — a recent Master’s graduate in Computer Science from Rivier University, passionate about building scalable, real-world applications.
 
-💻 I specialize in full-stack development, with experience in building secure, modular systems using Django, MongoDB, React, and Node.js.
+💻 I specialize in full-stack development, with hands-on experience using modern web technologies like Django, MongoDB, React, and Node.js.
 
-🛒 I recently completed a full-featured E-commerce platform for my final project, implementing:
+🛒 I recently completed a feature-rich E-commerce platform as my final project, which includes:
 
-JWT authentication with email verification
+🔐 JWT authentication with email verification
 
-Stripe payments
+💳 Stripe payment integration
 
-Role-based access for customers, admins, and guests
+👥 Role-based access for customers, admins, and guest users
 
-Loyalty points, product reviews, and refund handling
+🛍️ Loyalty points system, product reviews, and refund handling
 
-Django templates for seamless frontend integration
+🖥️ Seamless frontend using Django templates
 
-🔧 Tech I love working with:
-Python | JavaScript | Django | React | Node.js | MongoDB | SQL | Git | Stripe API
+🛠️ Tech Stack Highlights:
+⚙️ Python, JavaScript, Django, React, Node.js
+🗃️ MongoDB, MySQL, SQL
+🔧 Git, Stripe API, SMTP, Django-Filter
 
-🌱 Currently exploring:
-
-Backend performance optimization
-
-AI-powered features for e-commerce
-
-Real-world software architecture and DevOps
+🚀 Currently exploring:
+📈 Backend performance tuning and optimization
+🤖 AI-powered features for smart recommendations
+🛠️ Clean architecture and DevOps best practices
 
 📫 Let’s connect!
-Check out my work, and feel free to reach out — I’m always open to collaboration, learning, and new opportunities.
+Feel free to check out my projects, open issues, or collaborate — I'm always excited to learn and build with the community!
+
