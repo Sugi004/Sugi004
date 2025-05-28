@@ -17,7 +17,7 @@
 🛠️ Tech Stack Highlights:
 ⚙️ Python, JavaScript, Django, React, Node.js
 🗃️ MongoDB, MySQL, SQL
-🔧 Git, Stripe API, SMTP, Django-Filter
+🔧 Git, Django
 
 🚀 Currently exploring:
 📈 Backend performance tuning and optimization
